@@ -1,0 +1,84 @@
+{
+  "type": "FeatureCollection",
+  "crs": {
+    "type": "name",
+    "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "ak16994521",
+        "mag": 2.3,
+        "name": "Dante Gulapa",
+        "time": 1507425650893,
+        "felt": null,
+        "tsunami": 1812000321
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [120.20007821298623, 14.9341642523968, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "ak16994521",
+        "mag": 2.3,
+        "name": "Andres Bonifacio",
+        "time": 1507425650893,
+        "felt": null,
+        "tsunami": 1812000321
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [120.19564332745104, 14.939619157182866, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "ak16994519",
+        "name": "Rhey Costales",
+        "mag": 1.7,
+        "time": 1507425289659,
+        "felt": null,
+        "tsunami": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [120.19014919615243, 14.942716802315479, 105.5]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "ak16994517",
+        "name": "Main Office",
+        "mag": 1.6,
+        "time": 1507424832518,
+        "felt": null,
+        "tsunami": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [120.1847333149073, 14.946312414358728, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "ak16994517",
+        "name": "Darwin Dela Cruz",
+        "mag": 1.6,
+        "time": 1507424832518,
+        "felt": null,
+        "tsunami": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [120.20199501237344, 14.932248160898787, 0.0]
+      }
+    }
+  ]
+}
